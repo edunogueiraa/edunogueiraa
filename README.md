@@ -5,3 +5,6 @@
 
 ![Eduardo Nogueira GitHub status](https://github-readme-stats.vercel.app/api?username=edunogueiraa&show_icons=true&theme=dark)
 
+![Gif](https://i.pinimg.com/originals/02/01/1e/02011ec8554277b8c70bf22fb192123c.gif)
+
+
